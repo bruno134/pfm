@@ -18,7 +18,6 @@ public class CartaoCredito {
 	
 	public CartaoCredito() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public CartaoCredito(Integer idCartaoCredito, String nmCartaoCredito, Bandeira bandeira) {
